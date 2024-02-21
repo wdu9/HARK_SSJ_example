@@ -1,3 +1,5 @@
+name: HARK_SSJ_example
+
 channels:
   - conda-forge
 dependencies:
