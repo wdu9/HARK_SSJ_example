@@ -1,5 +1,7 @@
 sequence_jacobian 
 
+jupyterlab
+
 scipy==1.10.0
 
 numpy==1.23.0
